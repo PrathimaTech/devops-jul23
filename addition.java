@@ -3,3 +3,4 @@ enter x
 enter y
 z=x+y
 sum of two numbers=z
+print("sume of two numbers",z)
