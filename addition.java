@@ -1,3 +1,4 @@
+#!/bin/bash
 ente two numbers
 enter x
 enter y
